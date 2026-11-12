@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Dikshitha
 
-<!--
-**dixy0405/dixy0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science (AI & ML) undergraduate at JSSATE, Bengaluru.
 
-Here are some ideas to get you started:
+Passionate about building practical solutions using **Artificial Intelligence, Machine Learning, and Software Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in **AI, ML, Cloud Computing, and DevOps**.
+
+### Technical Skills
+Python | C | TensorFlow | PyTorch | OpenCV | AWS | Docker | Kubernetes | Git
+
+### Featured Projects
+
+**AI-Powered Elderly Assistance & Safety Monitoring (Ongoing)**  
+Developing an intelligent safety monitoring system integrating AI-based fall detection, IoT sensors, and emergency alerts.
+
+**Real-Time Sign Language Detection**  
+Built a gesture recognition system using Python, OpenCV, MediaPipe, and TensorFlow to translate hand gestures into text.
+
+**Multi-Tier Cloud Application Deployment**  
+Deployed a containerized application on AWS using Docker, Kubernetes, and Jenkins with automated CI/CD pipelines.
+
+### Currently Exploring
+AI-driven applications, Machine Learning, and scalable cloud solutions.
+
+**Email:** dikshithan0405@gmail.com
